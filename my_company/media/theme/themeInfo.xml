@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<OplusSmartPhoneThemeInfo>
+  <Author>ONEPLUS</Author>
+  <Summary>OnePlus 12R Genshin Impact Edition Keqing Theme</Summary>
+  <Description>
+Theme Introduction:
+Dear Traveler,
+We hope you have been enjoying your journey in Teyvat. As you eagerly venture around in search of new and wonderful things, we are excited to welcome you to experience something brand-new — the OnePlus 12R Genshin Impact Edition.
+Get ready to embark on a special adventure with Keqing. Explore the exclusive Keqing-inspired theme filled with electrifying charm. It's time to level up your gaming experience, brave Traveler.
+
+【Note】To run the theme properly, you need to update to 「OxygenOS 12 」or above.</Description>
+  <Scale>0.75</Scale>
+  <XOffsetPCT>0.00</XOffsetPCT>
+  <YOffsetPCT>0.00</YOffsetPCT>
+  <LastModifyTime>2023-09-26-17-37-36</LastModifyTime>
+  <EditorVersion>6</EditorVersion>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <LanguageType>1</LanguageType>
+  <EditorName>桌面</EditorName>
+  <UUID>cde02ece-250c-4f86-99a8-0b049fb613c2</UUID>
+  <PackageName>cde02ece-250c-4f86-99a8-0b049fb613c2</PackageName>
+  <VersionName>1.0.0</VersionName>
+  <VersionCode>1</VersionCode>
+  <packageInfo>
+    <package name="com.android.systemui" version="001" />
+    <package name="com.coloros.alarmclock" version="001,002" />
+    <package name="com.coloros.widget.smallweather" version="001" />
+    <package name="com.oppo.launcher" version="001" />
+    <package name="icons" version="001" />
+    <package name="lockscreen" version="001" />
+    <package name="picture" version="001" />
+    <package name="wallpaper" version="001" />
+  </packageInfo>
+  <resolutionInfo>
+    <resolution>2780*1264</resolution>
+    <resolution>1390*632</resolution>
+  </resolutionInfo>
+</OplusSmartPhoneThemeInfo>

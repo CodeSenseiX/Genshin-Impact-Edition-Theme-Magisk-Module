@@ -1,0 +1,13 @@
+# build porp start
+ro.oplus.image.my_company.type=Aston_YuanShen_Exp_OnePlus
+ro.oplus.image.my_company.date=2024-02-05 21:04:25
+ro.oplus.image.my_company.date.utc=1707138265
+ro.vendor.oplus.market.name=OnePlus 12R Genshin Impact Edition
+ro.vendor.oplus.market.enname=OnePlus 12R
+ro.config.ringtone=ringtone_keqing.ogg
+ro.config.ringtone_sim2=ringtone_keqing.ogg
+ro.config.notification_sound=notification_keqing.ogg
+ro.config.notification_sms=sms_keqing.ogg
+ro.config.notification_sim2=sms_keqing.ogg
+ro.config.alarm_alert=alarm_keqing_1.ogg
+ro.oplus.image.my_company.version=23861.3.1901.2024020521020523332385.e5462222
